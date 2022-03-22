@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Srikantam-Bhavana.github.io/e-commercereact/static/css/main.b0907944.css",
+    "main.js": "/Srikantam-Bhavana.github.io/e-commercereact/static/js/main.e63c2850.js",
+    "index.html": "/Srikantam-Bhavana.github.io/e-commercereact/index.html",
+    "main.b0907944.css.map": "/Srikantam-Bhavana.github.io/e-commercereact/static/css/main.b0907944.css.map",
+    "main.e63c2850.js.map": "/Srikantam-Bhavana.github.io/e-commercereact/static/js/main.e63c2850.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0907944.css",
+    "static/js/main.e63c2850.js"
+  ]
+}
